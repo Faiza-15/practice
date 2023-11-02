@@ -1,0 +1,79 @@
+#whole{
+    font-family: 'Noto Serif', serif;
+    margin-left: 10%;
+    background-color: rgb(227, 196, 239);
+  
+}
+
+.first{
+    display: flex;
+    background-color: rgb(187, 227, 205);
+   
+
+}
+.second{
+    display: flex;
+    background-color: rgb(238, 188, 218);
+}
+
+.third{
+    display: flex;
+    background-color: rgb(169, 211, 243);
+    font-size: x-large;
+    
+}
+
+.fourth{
+    display: flex;
+    background-color: rgb(238, 220, 187);
+}
+
+.paragraph{
+    padding: 5%;
+}
+
+
+.pic1{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+
+
+.box1{
+    margin-right: 10%;
+    height: 50px;
+}
+
+.box2{
+    margin-right: 10%;
+    height: 50px;
+}
+
+.pic2{
+    margin-left: 5%;
+}
+
+.paragraph2{
+    margin-left: 10%;
+    text-align: center;
+}
+
+.pic3{
+    margin-left: 10%;
+}
+
+
+.paragraph3{
+    margin-top: 10%;
+    margin-left: 20%;
+    text-align: justify;
+}
+
+.pic4{
+    margin-left: 20%;
+}
+
+
+
+
